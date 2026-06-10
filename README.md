@@ -66,6 +66,8 @@ the real GH-200) live at **[certy.pro](https://certy.pro)**.
   plus a link to the full mock exam.
 - [`glossary/`](glossary/) - key GH-200 terms in plain English.
 - [`resources/`](resources/) - official documentation and certification links.
+- [`challenge-project/`](challenge-project/) - the **GH-200 CI/CD Capstone**: build
+  and harden a complete pipeline that touches every domain, with verifiable proof.
 
 ---
 
